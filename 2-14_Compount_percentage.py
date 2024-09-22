@@ -1,0 +1,6 @@
+contributed_amt = float(input('Введите внесённую основную сумму: '))
+annual_percentage_rage = float(input('Введите годовую процентную ставку: '))
+enrollment_frequency = float(input('Введите частоту начисления процентного дохода в год: '))
+years = int(input('Введите количество лет процентного дохода: '))
+amt_after_period = contributed_amt * ((1 + annual_percentage_rage / enrollment_frequency) ** (enrollment_frequency * years))
+print(f'Сумма в конце периода составит {amt_after_period:.2f}')
