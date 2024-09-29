@@ -1,10 +1,10 @@
-# Tony_Gaddis_Starting_Out_With_Python_5th\n
-Exercises from Py-Tutorial 'Tony Gaddis Starting Out With Python 5th'\n
-Author: Tony Gaddis.\n
-Title: Starting Out With Python 5th.\n
-Publishing house: BHV\n
-Link to the book from the punlisher: https://bhv.ru/product/nachinaem-programmirovat-na-python-5-e-izd/ \n
-Additional materials are available for download at the link: 
+# Tony_Gaddis_Starting_Out_With_Python_5th <br />
+Exercises from Py-Tutorial 'Tony Gaddis Starting Out With Python 5th' <br />
+Author: Tony Gaddis. <br />
+Title: Starting Out With Python 5th. <br />
+Publishing house: BHV <br />
+Link to the book from the punlisher: https://bhv.ru/product/nachinaem-programmirovat-na-python-5-e-izd/ <br />
+Additional materials are available for download at the link:
 1) ftp://ftp.bhv.ru/9785977568036.zip
 Or
 2) https://zip.bhv.ru/9785977568036.zip?_ga=2.102328961.1489647972.1726942101-1548009988.1725574300
