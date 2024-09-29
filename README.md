@@ -10,6 +10,6 @@ Or
 2) https://zip.bhv.ru/9785977568036.zip?_ga=2.102328961.1489647972.1726942101-1548009988.1725574300
 
 The main idea behind the exercises was to refactor the habits I had developed in using Python.
-The hardest battle in this process was fighting the habits of over-engineering, when I expanded the task with error checking exception handling and simply learning to understand the essence of the task itself.
+The hardest battle in this process was fighting the habits of over-engineering, when I expanded the task with error checking exception handling and simply learning to understand the essence of the task itself to strengthen the fundamental skills of using this programming language in practice.
 
-![Grisha_The_Frontender](https://github.com/user-attachments/assets/2728f2a3-992a-4f1c-80bf-c95c9dac82ab)
+![Grisha_The_Frontender-ENG](https://github.com/user-attachments/assets/a98cc760-3a2b-4b17-a837-d7d7e67b6e21)
