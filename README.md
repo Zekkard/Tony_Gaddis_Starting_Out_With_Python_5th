@@ -1,5 +1,5 @@
-# Tony_Gaddis_Starting_Out_With_Python_5th <br />
-Exercises from Py-Tutorial 'Tony Gaddis Starting Out With Python 5th' <br />
+# Tony Gaddis Starting Out With Python 5th <br />
+Exercises from Py-Tutorial  'Tony Gaddis Starting Out With Python 5th' <br />
 Author: Tony Gaddis. <br />
 Title: Starting Out With Python 5th. <br />
 Publishing house: BHV <br />
