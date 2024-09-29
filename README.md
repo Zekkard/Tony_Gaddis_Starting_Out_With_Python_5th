@@ -14,6 +14,4 @@ Adding features<br />
 error checking<br />
 exception handling<br />
 and SIMPLY LEARNING TO UNDERSTAND THE ESSENCE OF THE TASK ITSELF to strengthen the fundamental skills of using this programming language in practice.
-<br />
-<br />
 ![Grisha_The_Frontender-ENG](https://github.com/user-attachments/assets/a98cc760-3a2b-4b17-a837-d7d7e67b6e21)
