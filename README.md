@@ -1,5 +1,5 @@
-# Tony_Gaddis_Starting_Out_With_Python_5th <br />
-Exercises from Py-Tutorial 'Tony Gaddis Starting Out With Python 5th' <br />
+# Tony Gaddis Starting Out With Python 5th <br />
+Exercises from Py-Tutorial  'Tony Gaddis Starting Out With Python 5th' <br />
 Author: Tony Gaddis. <br />
 Title: Starting Out With Python 5th. <br />
 Publishing house: BHV <br />
@@ -15,4 +15,4 @@ error checking<br />
 exception handling<br />
 and SIMPLY LEARNING TO UNDERSTAND THE ESSENCE OF THE TASK ITSELF to strengthen the fundamental skills of using this programming language in practice.
 
-![Grisha_The_Frontender-ENG](https://github.com/user-attachments/assets/a98cc760-3a2b-4b17-a837-d7d7e67b6e21)
+![Grisha_The_Frontender-ENG](https://github.com/user-attachments/assets/f6d36647-cebd-4205-804e-12c51b1d5b95)
