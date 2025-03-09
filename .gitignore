@@ -993,3 +993,591 @@
 9785977568036/source-code/��ࠦ����� �� �ணࠬ��஢����/����� 13/��ࠦ����� 13.12.py
 9785977568036/source-code/��ࠦ����� �� �ணࠬ��஢����/����� 13/��ࠦ����� ����� 13.doc
 9785977568036/source-code/��ࠦ����� �� �ணࠬ��஢����/����� 13/��ࠦ����� ����� 13.pdf
+9785977568036/.DS_Store
+9785977568036/source-code/ГЂ†Ґ† 15.doc
+9785977568036/source-code/ГЂ†Ґ† 15.pdf
+9785977568036/source-code/КЃђђ•≠в†а®® ѓ•а•ҐЃ§з®™†.doc
+9785977568036/source-code/КЃђђ•≠в†а®® ѓ•а•ҐЃ§з®™†.pdf
+9785977568036/source-code/ru/ГЂ†Ґ† 02/apostrophe.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/center_align.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/columns.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/comment1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/comment2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/concatenation.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/display_quote.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/dollar_display.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/double_quotes.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/f_string_no_formatting.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/f_string_rounding.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/formatting.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/future_value.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/input.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/no_formatting.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/orion.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/output.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/sale_price.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/simple_math.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/string_input.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/string_variable.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/test_score_average.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/time_converter.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/variable_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/variable_demo2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/variable_demo3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 02/variable_demo4.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/auto_repair_payroll.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/grader.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/hit_the_target.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/loan_qualifier.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/loan_qualifier2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/loan_qualifier3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/password.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/sort_names.py
+9785977568036/source-code/ru/ГЂ†Ґ† 03/test_average.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/commission.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/concentric_circles.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/gross_pay.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/infinite.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/property_tax.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/rectangular_pattern.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/retail_no_validation.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/retail_with_validation.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/simple_loop1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/simple_loop2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/simple_loop3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/simple_loop4.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/speed_converter.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/spiral_circles.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/spiral_lines.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/squares.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/stair_step_pattern.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/sum_numbers.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/temperature.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/test_score_averages.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/triangle_pattern.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/user_squares1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 04/user_squares2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/acme_dryer.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/bad_local.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/birds.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/change_me.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/circle.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/coin_toss.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/commission_rate.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/cups_to_ounces.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/dice.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/draw_circles.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/draw_lines.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/draw_squares.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/function_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/geometry.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/global1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/global2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/graphics_mod_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/hypotenuse.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/keyword_args.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/keyword_string_args.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/multiple_args.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/my_graphics.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/none_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/pass_arg.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/random_numbers.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/random_numbers2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/random_numbers3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/rectangle.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/rectangle2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/retirement.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/sale_price.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/square_root.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/string_args.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/total_ages.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/two_functions.py
+9785977568036/source-code/ru/ГЂ†Ґ† 05/__pycache__/circle.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 05/__pycache__/rectangle.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 06/add_coffee_record.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/circle.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/coffee.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 06/delete_coffee_record.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/display_file.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/display_file2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/division.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/division2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/employees.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 06/file_read.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/file_write.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/friends.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 06/gross_pay1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/gross_pay2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/gross_pay3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/line_read.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/modify_coffee_records.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/my_graphics.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/numbers.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 06/philosophers.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 06/read_emp_records.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/read_numbers.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/read_running_times.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/read_sales.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/read_sales2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/rectangle.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/sales_report1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/sales_report2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/sales_report3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/sales_report4.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/sales.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 06/save_emp_records.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/save_running_times.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/search_coffee_records.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/show_coffee_records.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/strip_newline.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/video_times.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 06/write_names.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/write_numbers.py
+9785977568036/source-code/ru/ГЂ†Ґ† 06/write_sales.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_01.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_02.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_03.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_04.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_05.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_06.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_07.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_08.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_09.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/07_10.png
+9785977568036/source-code/ru/ГЂ†Ґ† 07/8_ball_responses_ru.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/8_ball_responses.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/1994_Weekly_Gas_Averages.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/average_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/bar_chart1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/bar_chart2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/bar_chart3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/barista_pay.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/BoyNames.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/charge_accounts.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/cities.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/drop_lowest_score.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/GirlNames.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/in_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/index_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/insert_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/line_graph1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/line_graph2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/line_graph3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/line_graph4.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/line_graph5.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/list_append.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/numberlist.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/pie_chart1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/pie_chart2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/random_numbers.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/read_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/read_number_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/remove_item.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/return_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/sales_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/student_solution.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/total_function.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/total_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/two_dimensional_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/USPopulation.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/WorldSeriesWinners.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 07/write_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/write_number_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 07/writelines.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/concatenate.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/count_letters_T.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/GasPrices.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 08/generate_login.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/login.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/login2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/pbnumbers.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 08/repetition_operator.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/split_date.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/string_split.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/string_test.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/test_averages.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/test_scores.csv
+9785977568036/source-code/ru/ГЂ†Ґ† 08/text.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 08/tokens.py
+9785977568036/source-code/ru/ГЂ†Ґ† 08/validate_password.py
+9785977568036/source-code/ru/ГЂ†Ґ† 09/birthdays.py
+9785977568036/source-code/ru/ГЂ†Ґ† 09/card_dealer.py
+9785977568036/source-code/ru/ГЂ†Ґ† 09/Index.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 09/info.dat
+9785977568036/source-code/ru/ГЂ†Ґ† 09/Kennedy.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 09/pickle_objects.py
+9785977568036/source-code/ru/ГЂ†Ґ† 09/sets.py
+9785977568036/source-code/ru/ГЂ†Ґ† 09/unpickle_objects.py
+9785977568036/source-code/ru/ГЂ†Ґ† 09/WorldSeriesWinners.txt
+9785977568036/source-code/ru/ГЂ†Ґ† 10/account_test.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/account_test2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/bankaccount.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/bankaccount2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/car.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/cell_phone_list.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/cell_phone_test.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/cellphone.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/cellphones.dat
+9785977568036/source-code/ru/ГЂ†Ґ† 10/coin_argument.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/coin_demo1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/coin_demo2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/coin_demo3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/coin_demo4.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/coin_demo5.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/coin.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/contact_manager.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/contact.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/contacts.dat
+9785977568036/source-code/ru/ГЂ†Ґ† 10/customer.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/pickle_cellphone.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/servicequote.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/unpickle_cellphone.py
+9785977568036/source-code/ru/ГЂ†Ґ† 10/__pycache__/bankaccount.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 10/__pycache__/bankaccount.cpython-39.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 10/__pycache__/bankaccount2.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 10/__pycache__/cellphone.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 10/__pycache__/coin.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 10/__pycache__/contact.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 11/account_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/accounts.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/animals.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/car_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/car_truck_suv_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/polymorphism_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/polymorphism_demo2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/vehicles.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/wrong_type.py
+9785977568036/source-code/ru/ГЂ†Ґ† 11/__pycache__/accounts.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 11/__pycache__/animals.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 11/__pycache__/vehicles.cpython-36.pyc
+9785977568036/source-code/ru/ГЂ†Ґ† 12/endless_recursion.py
+9785977568036/source-code/ru/ГЂ†Ґ† 12/factorial.py
+9785977568036/source-code/ru/ГЂ†Ґ† 12/fibonacci.py
+9785977568036/source-code/ru/ГЂ†Ґ† 12/gcd.py
+9785977568036/source-code/ru/ГЂ†Ґ† 12/range_sum.py
+9785977568036/source-code/ru/ГЂ†Ґ† 12/Recursive Multiplication (opens new window).url
+9785977568036/source-code/ru/ГЂ†Ґ† 12/recursive.py
+9785977568036/source-code/ru/ГЂ†Ґ† 12/towers_of_hanoi.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/button_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/checkbutton_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/dog_listbox.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_arc.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_line.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_multi_lines.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_ovals.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_piechart.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_polygon.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_square.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/draw_text.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/empty_window1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/empty_window2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/external_padding.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/font_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/frame_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/hello_world.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/hello_world2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/hello_world3.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/horizontal_scrollbar.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/internal_padding.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/kilo_converter.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/kilo_converter2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/listbox_example1.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/listbox_example2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/quit_button.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/radiobutton_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/test_averages.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/time_zone.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/vertical_horizontal_scrollbar.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/vertical_scrollbar.py
+9785977568036/source-code/ru/ГЂ†Ґ† 13/window_with_title.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/add_bad_employee_data.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/add_employee.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/add_table.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/chocolate.db
+9785977568036/source-code/ru/ГЂ†Ґ† 14/company.db
+9785977568036/source-code/ru/ГЂ†Ґ† 14/contacts.db
+9785977568036/source-code/ru/ГЂ†Ґ† 14/create_cities_db.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/create_employees_db.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/employee_details.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/employees.db
+9785977568036/source-code/ru/ГЂ†Ґ† 14/exception_handling.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/fetchone_demo.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/get_all_columns.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/get_descriptions_prices.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/insert_rows.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/insert_variables.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/inventory_crud.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/inventory.db
+9785977568036/source-code/ru/ГЂ†Ґ† 14/multiple_tables.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/print_employee_dept_city.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/product_deleter.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/product_min_price.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/product_price_updater.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/products_math.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/sorted_by_retailprice.py
+9785977568036/source-code/ru/ГЂ†Ґ† 14/sqlite_skeleton.py
+9785977568036/source-code/ru/ГЂ†Ґ† 15/data_pipeline.py
+9785977568036/source-code/ru/ГЂ†Ґ† 15/factorial_functional.py
+9785977568036/source-code/ru/ГЂ†Ґ† 15/factorial_functional2.py
+9785977568036/source-code/ru/ГЂ†Ґ† 15/fibonacci_functional.py
+9785977568036/source-code/ru/ГЂ†Ґ† 15/range_sum_functional.py
+9785977568036/source-code/ru/Па®ЂЃ¶•≠®• 6/columns.py
+9785977568036/source-code/ru/Па®ЂЃ¶•≠®• 6/dollar_display.py
+9785977568036/source-code/ru/Па®ЂЃ¶•≠®• 6/formatting.py
+9785977568036/source-code/ru/Па®ЂЃ¶•≠®• 6/no_formatting.py
+9785977568036/source-code/ОвҐ•вл ≠† ҐЃѓаЃбл §Ђп ѓЃҐвЃаЃ•≠®п/ОвҐ•вл ≠† ҐЃѓаЃбл §Ђп ѓЃҐвЃа•≠®п.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.13.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.14.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.15_нб™®І_01.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.15_нб™®І_02.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.15_нб™®І_03.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.15_нб™®І_04.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.15_нб™®І_05.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®• 2.15_нб™®І_06.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®п £Ђ†Ґл 2 б °ЂЃ™-бе•ђ†ђ®.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 02/Уѓа†¶≠•≠®п £Ђ†Ґл 2 б °ЂЃ™-бе•ђ†ђ®.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.13.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.14.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.15.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.16.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.17.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.18.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®• 3.19.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®п £Ђ†Ґл 3.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 03/Уѓа†¶≠•≠®п £Ђ†Ґл 3.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.13.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.14.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.15.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.16.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.17.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.18.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®• 4.19.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®п £Ђ†Ґл 4.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 04/Уѓа†¶≠•≠®п £Ђ†Ґл 4.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.13.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.14.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.15.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.16.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.17.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.18.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.19.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.20.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.21.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.22.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.23.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.24.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.25.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®• 5.26.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®п £Ђ†Ґл 5.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 05/Уѓа†¶≠•≠®п £Ђ†Ґл 5.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.10a.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.10b.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®• 6.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®п £Ђ†Ґл 6.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/Уѓа†¶≠•≠®п £Ђ†Ґл 6.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/data/golf.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/data/my_page.html
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/data/names.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/data/numbers.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/data/random_numbers.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/data/steps.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 06/data/test.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.13.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.14.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®• 7.15.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®п £Ђ†Ґл 7.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/Уѓа†¶≠•≠®п £Ђ†Ґл 7.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/8_ball_responses_ru.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/8_ball_responses.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/1994_Weekly_Gas_Averages.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/BoyNames.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/charge_accounts.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/expenses.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/GirlNames.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/student_solution.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/USPopulation.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 07/data/WorldSeriesWinners.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.13_1_2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.13_3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.13_4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.14_1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.14_2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.14_3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.14_4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®• 8.14_5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®п £Ђ†Ґл 8.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/Уѓа†¶≠•≠®п £Ђ†Ґл 8.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/data/GasPrices.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/data/high_to_low.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/data/low_to_high.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/data/pbnumbers.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/data/read_me.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 08/data/text.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.3-1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.3-2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®• 9.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®п £Ђ†Ґл 9.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/Уѓа†¶≠•≠®п £Ђ†Ґл 9.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/emails.dat
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/encrypted.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/first_file.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/index.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/Kennedy.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/second_file.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/text.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 09/data/WorldSeriesWinners.txt
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®• 10.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®п £Ђ†Ґл 10.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/Уѓа†¶≠•≠®п £Ђ†Ґл 10.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/data/employees.dat
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__init__.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/car.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/cashRegister.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/emp.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/info.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/patient.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/pet.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/procedure.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/question.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/retail.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/__init__.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/car.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/cashRegister.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/emp.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/info.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/patient.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/pet.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/procedure.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/question.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 10/objects/__pycache__/retail.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/Уѓа†¶≠•≠®• 11.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/Уѓа†¶≠•≠®• 11.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/Уѓа†¶≠•≠®• 11.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/Уѓа†¶≠•≠®п £Ђ†Ґл 11.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/Уѓа†¶≠•≠®п £Ђ†Ґл 11.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/objects/emp_full.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/objects/emp_prod.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/objects/person.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 11/objects/__pycache__/emp_prod.cpython-38.pyc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®• 12.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®п £Ђ†Ґл 12.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 12/Уѓа†¶≠•≠®п £Ђ†Ґл 12.pdf
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.1.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.2.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.3.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.4.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.5.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.6.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.7.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.8.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.9.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.10.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.11.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®• 13.12.py
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®п £Ђ†Ґл 13.doc
+9785977568036/source-code/Уѓа†¶≠•≠®п ѓЃ ѓаЃ£а†ђђ®аЃҐ†≠®о/ГЂ†Ґ† 13/Уѓа†¶≠•≠®п £Ђ†Ґл 13.pdf
