@@ -35,11 +35,11 @@ def guess_play(answer,limit):
         if suggestion == answer:
             print('Вы угадали!')
             break
-        if suggestion > answer:
+        elif suggestion > answer:
             print('Введённое вами число больше загадонного.')
-        if suggestion < answer:
+        elif suggestion < answer:
             print('Введённое вами число меньше загадонного.')
-        if i == limit:
+        elif i == limit:
             print('Вы не угадали.')
             break
         i += 1
