@@ -30,17 +30,20 @@ def get_input(attempts_limit, iter):
 def guess_play(answer,limit):
     suggestion = -1
     i = 0
-    while i < limit and suggestion != answer:
+    while i <= limit and suggestion != answer:
         suggestion = get_input(limit,i)
+        
         if suggestion == answer:
             print('Вы угадали!')
             break
-        elif suggestion > answer:
+        if suggestion > answer:
             print('Введённое вами число больше загадонного.')
-        elif suggestion < answer:
+        if suggestion < answer:
             print('Введённое вами число меньше загадонного.')
-        elif i == limit:
+        
+        i += 1
+        
+        if i == limit:
             print('Вы не угадали.')
             break
-        i += 1
 main()
