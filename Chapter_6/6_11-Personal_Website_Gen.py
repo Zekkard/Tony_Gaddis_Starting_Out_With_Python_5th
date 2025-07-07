@@ -15,7 +15,7 @@
 # </head>
 # <body>
 # <center>
-# <hl>Джулия Тейлор</hl>
+# <h1>Джулия Тейлор</h1>
 # </center>
 # <hr />
 # Моя специализация - информатика, я являюсь членом джаз-клуба
@@ -24,3 +24,30 @@
 # <hr />
 # </body>
 # </html>
+
+# Импорт библиотек
+import os
+
+def main():
+    os.makedirs('data',exist_ok=True)
+    name = input('Введите ваше имя: ')
+    info = input('Расскажите о себе: ')
+    outputfile = open('data/index.html','w')
+    outputfile.write('<html>\n')
+    outputfile.write('\t<head>\n')
+    outputfile.write('\t\t<title>My Page</title>\n')
+    outputfile.write('\t\t<meta charset ="utf-8">\n') # Вот только в учебнике не учитывается, что его будут читать в странах, где используют кириллицу.
+    outputfile.write('\t</head>\n')
+    outputfile.write('\t<body>\n')
+    outputfile.write('\t\t<center>\n')
+    outputfile.write(f'\t\t\t<center>\n')
+    outputfile.write(f'\t\t\t<h1>{name}</h1>\n')
+    outputfile.write(f'\t\t\t</center>\n')
+    outputfile.write('\t\t<hr />\n')
+    outputfile.write(f'\t\t{info}\n')
+    outputfile.write('\t\t<hr />\n')
+    outputfile.write('\t</body>\n')
+    outputfile.write('</html>')
+    outputfile.close()
+    
+main()
